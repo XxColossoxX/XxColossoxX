@@ -1,9 +1,13 @@
 ## 👋 Hey! I'm Pedro Henrique Ribeiro
 
 💻 Tech lover | 🎓 IT Technician
+<br>
 🌐 Passionate about Web Development
+<br>
 🚀 Always learning & building cool stuff
+<br>
 📍 Brazil | 💬 Let's connect!
+<br>
 
 
 
