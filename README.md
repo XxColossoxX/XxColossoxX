@@ -1,4 +1,4 @@
-## 👋 Hey! I'm Pedro Henrique Ribeiro
+## 👋 Yo! Pedro here. I write code & vibe with eletric guitar. 🎸
 
 💻 Tech lover | 🎓 IT Technician
 <br>
