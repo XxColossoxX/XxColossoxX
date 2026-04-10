@@ -16,11 +16,12 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Delphi](https://img.shields.io/badge/delphi-%23D42029.svg?style=for-the-badge&logo=delphi&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XxColossoxX&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=XxColossoxX&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=XxColossoxX&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XxColossoxX&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XxColossoxX&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=XxColossoxX&icon=2&color=2)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=XxColossoxX&style=for-the-badge)
+![](https://img.shields.io/github/followers/XxColossoxX?style=for-the-badge)
 
 
